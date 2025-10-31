@@ -1,0 +1,17 @@
+title: "Jayakrishnan P V"
+description: "Embedded Systems, AI, and Cybersecurity Portfolio"
+baseurl: ""
+url: "https://jayakrishnanpv.github.io"
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - about.md
+  - projects
+
+github_username: jayakrishnanpv0303
+linkedin_username: jayakrishnanpv
+email: "jayakrishnanpv0303@gmail.com.com"
+
+show_excerpts: true
